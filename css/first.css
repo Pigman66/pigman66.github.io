@@ -932,14 +932,14 @@ button {
 }
 @font-face {
   font-family: 'UbuntuMono';
-  src: url("https://pan.kanokano.cn/d/pigman/logo.png");
+  src: url("https://pan.kanokano.cn/d/pigman/logo.webp");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
 }
 @font-face {
   font-family: 'Varela Round';
-  src: url("https://pan.kanokano.cn/d/pigman/logo.png");
+  src: url("https://pan.kanokano.cn/d/pigman/logo.webp");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
